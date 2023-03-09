@@ -1,1 +1,1 @@
-Created an instagram clone database on mysql using the likes,photos,users,tags,photo_tags,followers table and did a descriptive analytics by running various queries.I have attched the screenshots of this project in this folder.
+Created an instagram clone database on mysql using the likes,photos,users,tags,photo_tags,followers table and did a descriptive analytics by running various queries.I have attached the screenshots of this project in this folder.
